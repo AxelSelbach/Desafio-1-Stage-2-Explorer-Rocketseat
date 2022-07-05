@@ -1,0 +1,3 @@
+# Desafio-1-Stage-2-Explorer-Rocketseat
+Finalizando a primeira parte da introdução ao CSS e HMTL do Explorer da Rocketseat, foi desenvolvido uma aplicação bem simples, mas que foi muito boa para aprendizado e entendimento de conceitos e ideias explicadas no decorrer do projeto!
+Estou satisfeito com o resultado final, apesar de ser algo simples eu me dediquei e gostei do resultado final. Gostei ainda mais do fato de que dessa vez, eu realmente estava entendendo o que era passasdo e conseguia aplicar os conceitos de HTML e CSS normalmente, agora resta praticar para continuar evoluindo e nunca parar!
